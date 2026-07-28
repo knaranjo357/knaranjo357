@@ -172,54 +172,6 @@ Infrastructure
    └── Linux
 ```
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=knaranjo357&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Kevin Naranjo GitHub statistics"
-  />
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=knaranjo357&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Kevin Naranjo most used languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=knaranjo357&theme=tokyonight&hide_border=true"
-    alt="Kevin Naranjo GitHub streak"
-  />
-</p>
-
----
-
-## 🏆 GitHub Profile
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=knaranjo357&theme=tokyonight&no-frame=true&column=6"
-    alt="Kevin Naranjo GitHub trophies"
-  />
-</p>
-
----
-
-## 📊 Activity Graph
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=knaranjo357&theme=tokyo-night&hide_border=true"
-    alt="Kevin Naranjo contribution activity graph"
-  />
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 I’m interested in collaborating with companies and teams that want to use software, artificial intelligence, automation, and data to improve their operations.
